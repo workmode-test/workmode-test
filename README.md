@@ -9,3 +9,7 @@ A small note about me
 - 💬 Ask me about visualization ideas
 - 📫 How to reach me: contact@omoyeuduehi.com
 -->
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/1e0ba3b7-3fc6-4a4c-b824-bfdd4d8333fe/thumbnail" >
+</p>
